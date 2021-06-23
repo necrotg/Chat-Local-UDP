@@ -1,0 +1,16 @@
+C:\Users\fgmil\Desktop\APS\APS\bin\Debug\netcoreapp3.1\APS.exe
+C:\Users\fgmil\Desktop\APS\APS\bin\Debug\netcoreapp3.1\APS.deps.json
+C:\Users\fgmil\Desktop\APS\APS\bin\Debug\netcoreapp3.1\APS.runtimeconfig.json
+C:\Users\fgmil\Desktop\APS\APS\bin\Debug\netcoreapp3.1\APS.runtimeconfig.dev.json
+C:\Users\fgmil\Desktop\APS\APS\bin\Debug\netcoreapp3.1\APS.dll
+C:\Users\fgmil\Desktop\APS\APS\bin\Debug\netcoreapp3.1\APS.pdb
+C:\Users\fgmil\Desktop\APS\APS\obj\Debug\netcoreapp3.1\APS.csprojAssemblyReference.cache
+C:\Users\fgmil\Desktop\APS\APS\obj\Debug\netcoreapp3.1\APS.csproj.GenerateResource.cache
+C:\Users\fgmil\Desktop\APS\APS\obj\Debug\netcoreapp3.1\APS.AssemblyInfoInputs.cache
+C:\Users\fgmil\Desktop\APS\APS\obj\Debug\netcoreapp3.1\APS.AssemblyInfo.cs
+C:\Users\fgmil\Desktop\APS\APS\obj\Debug\netcoreapp3.1\APS.csproj.CoreCompileInputs.cache
+C:\Users\fgmil\Desktop\APS\APS\obj\Debug\netcoreapp3.1\APS.dll
+C:\Users\fgmil\Desktop\APS\APS\obj\Debug\netcoreapp3.1\APS.pdb
+C:\Users\fgmil\Desktop\APS\APS\obj\Debug\netcoreapp3.1\APS.genruntimeconfig.cache
+C:\Users\fgmil\Desktop\APS\APS\obj\Debug\netcoreapp3.1\APS.Chat.resources
+C:\Users\fgmil\Desktop\APS\APS\obj\Debug\netcoreapp3.1\APS.Form2.resources
